@@ -14,15 +14,18 @@
 │ ├ 📝 Python
 │ ├ 📝 Javascript
 │ └ 📝 Bat
+├ 🐀
+│ ├ 🪱 Fud Methods
+│ └ 🪱 +9 Fud Method
 ├ 📂 Developing Languages
 │ ├ 📝 GoLang
 │ ├ 📝 Javascript
 │ ├ 📝 Python
 │ └ 📝 Php
 ├ 📜 Social Medias
-│ ├ 🔱 Discord	
-│ └ 🔱 Spotify
-└─────────────────
+│  ├ 🔱 Discord	
+│  └ 🔱 Spotify
+└────────────────>
   </pre>
 </body>
 </html>
