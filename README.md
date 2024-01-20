@@ -9,8 +9,18 @@
 <a href="https://discord.gg/discord.gg/via" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/via" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Çalıştığım Diller Ve Toollar</h3>
-<p align="left"> <a 📁 Volta's
+<h1 align="center">Nickim Volta</h1>
+<h1 align="center">Çok Yönlü Yazılım Geliştiricisiyim</h3>
+
+<h3 align="left">Benimle İletişime Geç</h3>
+<p align="left">
+<a href="https://discord.gg/discord.gg/via" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/via" height="30" width="40" /></a>
+</p>
+
+</head>
+<body>
+  <pre>
+📁 Volta's
 ├ 📂 Malware Developing
 │ ├ 📝 Python
 │ ├ 📝 Javascript
@@ -21,7 +31,11 @@
 │ ├ 📝 Python
 │ └ 📝 Php
 ├ 📜 Social Medias
-│  ├ 🔱 Discord	
-│  └ 🔱 Spotify
-└─────────────────></a> </p>
+│ ├ 🔱 Discord	
+│ └ 🔱 Spotify
+└─────────────────
+  </pre>
+</body>
+</html>
+
 
