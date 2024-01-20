@@ -3,7 +3,7 @@
 
 <h3 align="left">Benle İletişime Geç</h3>
 <p align="left">
-<a href="https://discord.gg/discord.gg/via" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/via" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.gg/via" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/via" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Özetleme Kullandığım Diller</h3>
