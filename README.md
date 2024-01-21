@@ -1,5 +1,5 @@
 <h2 align="center">Volta</h1>
-<h3 align="center">Çok Yönlü Yazılım Geliştiricisiyim</h3>
+
 
 <h3 align="left">Benimle İletişime Geçebilmen İçin</h3>
 <p align="left">
@@ -17,6 +17,7 @@
 │ ├ 📝 Python
 │ ├ 📝 Javascript
 │ └ 📝 Bat
+│ ├ ⛓️
 ├ 🐀 R4t Development
 │ ├ 🪱 Fud Methods
 │ └ 🪱 +9 Fud Method
@@ -36,7 +37,7 @@
 </head>
 <body>
     <div>
-        <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="GitHub Contribution Grid Snake">
+        <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="VoltaXCode.Snake">
     </div>
 </body>
 </html>
