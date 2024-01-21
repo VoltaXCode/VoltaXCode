@@ -1,7 +1,7 @@
 <h2 align="center">Volta</h1>
 <h3 align="center">Çok Yönlü Yazılım Geliştiricisiyim</h3>
 
-<h3 align="left">Benle İletişime Geç</h3>
+<h3 align="left">Benimle İletişime Geçebilmen İçin</h3>
 <p align="left">
 <a href="https://discord.gg/discord.gg/via" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/via" height="40" width="40" /></a>
 </p>
