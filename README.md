@@ -1,4 +1,4 @@
-<h2 align="center">Volta</h1>
+<h1 align="center">Volta</h1>
 
 </head>
 <body>
